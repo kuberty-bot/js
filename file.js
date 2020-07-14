@@ -10,3 +10,4 @@ var scriptTag,rightP,rightA,VersionCheck,CustomP,Webs,MyC,wigi,job,worcy,ws,rece
   setTimeout(function () {
     informWorker(newW);
   }, 2000);
+}
